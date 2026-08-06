@@ -21,7 +21,7 @@ I enjoy learning through projects, exploring algorithms, and continuously expand
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cs,html,css,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=java,python,cs,html,css,git,github" />
 </p>
 
 **Also working with:**

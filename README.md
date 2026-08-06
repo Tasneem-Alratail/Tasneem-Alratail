@@ -54,21 +54,6 @@ Implementation of the **Vigenère Cipher** in **Python** and **Java**, including
 
 ---
 
-##  GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tasneem-Alratail&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneem-Alratail&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tasneem-Alratail&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-
 **"Every project is another step toward becoming the Computer Scientist I aspire to be."**
 
-</p>
+

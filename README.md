@@ -30,7 +30,7 @@ I enjoy learning through projects, exploring algorithms, and continuously expand
 - ADO.NET
 - Windows Forms
 
-
+---
 ##  Goals
 
 - Strengthen my Computer Science foundation.

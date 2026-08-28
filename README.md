@@ -30,19 +30,6 @@ I enjoy learning through projects, exploring algorithms, and continuously expand
 - ADO.NET
 - Windows Forms
 
----
-
-##  Featured Projects
-
-###  Rental Management System
-
-A desktop application built with **C#**, **Windows Forms**, **ADO.NET**, and **SQL Server** for managing apartments, tenants, monthly payments, and reports.
-
-###  Vigenère Cipher
-
-Implementation of the **Vigenère Cipher** in **Python** and **Java**, including cryptanalysis techniques such as **Kasiski Examination** and **Dictionary Attacks**.
-
----
 
 ##  Goals
 
